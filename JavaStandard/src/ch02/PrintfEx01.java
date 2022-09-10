@@ -28,8 +28,6 @@ public class PrintfEx01 {
 		System.out.printf("octNum=%o, %d%n", octNum, octNum);
 		System.out.printf("octNum=%x, %d%n", hexNum, hexNum);
 		System.out.printf("octNum=%s, %d%n", Integer.toBinaryString(binNum), binNum);
-		
-	
 	}
 
 }
